@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1396836463 source:c:\users\kullanýcý\desktop\projelast\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
